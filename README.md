@@ -1,6 +1,6 @@
 # Hi, I'm Carl 👋
 
-Full Stack Developer building with **Laravel & Vue.js** in production SaaS environments. I have an unusual background — an MCom in Industrial/Organisational Psychology from Stellenbosch University — which means I care as much about *why* users behave the way they do as I do about the code that serves them.
+Full Stack Developer building with **Laravel & Vue.js** in production SaaS environments. I have an unusual background: an MCom in Industrial/Organisational Psychology from Stellenbosch University — which means I care as much about *why* users behave the way they do as I do about the code that serves them.
 
 Currently expanding into **React** and **automated testing** with Pest.
 
